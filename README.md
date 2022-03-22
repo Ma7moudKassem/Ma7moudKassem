@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Mahmoud Kassem 👋:heart: </h2>
+<h2> Hi 👋 I'm Mahmoud Kassem </h2>
 
 <img align='right' src="https://raw.githubusercontent.com/modykassem/modykassem/main/profile-img.png" align="right" width="25%">
  
