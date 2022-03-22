@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Mahmoud Kassem 👋:heart: </h2>
 
-<img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
+<img align='right' src="https://github.com/modykassem/modykassem/blob/master/profile-img.png" align="right" width="25%">
  
 - Software Engineer
 - Flutter Developer 
