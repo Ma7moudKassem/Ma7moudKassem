@@ -71,13 +71,9 @@
   <img src="https://streak-stats.demolab.com/?user=ma7moudkassem&theme=radical&hide_border=true" alt="streak"/>
 </p>
 
-<!-- Snake eating your contributions (needs the snake.yml workflow — see notes) -->
+<!-- Snake eating contributions (SVG uploaded to the repo root) -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ma7moudkassem/ma7moudkassem/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ma7moudkassem/ma7moudkassem/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/ma7moudkassem/ma7moudkassem/output/github-snake-dark.svg" alt="snake animation"/>
-  </picture>
+  <img src="./github-user-contribution.svg" width="100%" alt="snake animation"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
