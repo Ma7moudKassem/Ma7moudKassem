@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/mahmoud-kassem-a23152195"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:modykassem123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://leetcode.com/ma7moudkassem"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ma7moudkassem&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img height="28" src="https://visitor-badge.laobi.icu/badge?page_id=ma7moudkassem.ma7moudkassem&left_text=PROFILE%20VIEWS&left_color=%23555555&right_color=%238B5CF6" alt="Profile views"/>
 </p>
 
 ---
@@ -102,7 +102,7 @@ public sealed class MahmoudKassem : SoftwareEngineer
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ma7moudkassem&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+  <img width="100%" src="https://ghchart.rshah.org/8B5CF6/ma7moudkassem" alt="Contribution graph"/>
 </p>
 
 ---
